@@ -47,7 +47,7 @@ class Portfolio extends Component
                 'category' => ['JavaEE', 'Foundation'],
                 'title' => 'Full Stack app with JavaEE and Foundation',
                 'image' => url('/img/avatar.jpeg'),
-                'github' => 'https://github.com/Takie-Eddine/'
+                'github' => 'https://github.com/Takie-Eddine/AgenceLocationVoiture'
             ],
 
         ];
