@@ -35,7 +35,7 @@ class Portfolio extends Component
                 'category' => ['Laravel', 'Bootstrap'],
                 'title' => 'Full Stack app with Laravel and Bootstrap',
                 'image' => url('/img/avatar.jpeg'),
-                'github' => 'https://github.com/Takie-Eddine/'
+                'github' => 'https://github.com/Takie-Eddine/Boutique-shopping'
             ],
             [
                 'category' => ['PHP', 'Html', 'Css' ,'JavaSctpt'],
